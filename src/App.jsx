@@ -1,5 +1,9 @@
 function App() {
-  return <p></p>;
+  return (
+    <main>
+      <div id="game-container"></div>
+    </main>
+  );
 }
 
 export default App;
